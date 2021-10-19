@@ -1,1 +1,1 @@
-Please use https://git.armaanb.net or https://sr.ht/~armaan instead of the proprietary, microsoft-owned, and totalitarian GitHub.
+Don't use the proprietary, microsoft-owned, and totalitarian GitHub. Instead, try https://sourcehut.org or https://codeberg.org
